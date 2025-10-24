@@ -1,4 +1,4 @@
-Welcome! The project title name is "Obsidian Comet"! Unique name right! 
+Welcome! The WIP project title name is "Obsidian Comet"! Unique name right! 
 
 PROJECT DESCRIPTION:
 This a vertical shooter where we have a mysterious alien ship looking to save particular creatures
