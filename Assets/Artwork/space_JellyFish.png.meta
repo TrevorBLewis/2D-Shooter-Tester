@@ -1,0 +1,5005 @@
+fileFormatVersion: 2
+guid: 5308a2c79e573d74b9d95b01829388bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7316211429817326384
+    second: space_JellyFish_0
+  - first:
+      213: 3319429735474084599
+    second: space_JellyFish_1
+  - first:
+      213: 5642716508219858421
+    second: space_JellyFish_2
+  - first:
+      213: -8920026300654054304
+    second: space_JellyFish_3
+  - first:
+      213: 6822449464720975189
+    second: space_JellyFish_4
+  - first:
+      213: -2743155579818558778
+    second: space_JellyFish_5
+  - first:
+      213: 7385390441429386414
+    second: space_JellyFish_6
+  - first:
+      213: -8418695501415830842
+    second: space_JellyFish_7
+  - first:
+      213: -1400232066801309538
+    second: space_JellyFish_8
+  - first:
+      213: -4928252463586978208
+    second: space_JellyFish_9
+  - first:
+      213: -2625723498604024880
+    second: space_JellyFish_10
+  - first:
+      213: 11673875915259138
+    second: space_JellyFish_11
+  - first:
+      213: -9168928880775166128
+    second: space_JellyFish_12
+  - first:
+      213: -8681679913922787259
+    second: space_JellyFish_13
+  - first:
+      213: 8537713489118828206
+    second: space_JellyFish_14
+  - first:
+      213: 2014063466555116382
+    second: space_JellyFish_15
+  - first:
+      213: -1868191771098526941
+    second: space_JellyFish_16
+  - first:
+      213: -7950008757561644309
+    second: space_JellyFish_17
+  - first:
+      213: -5100147036323334130
+    second: space_JellyFish_18
+  - first:
+      213: -1963416598611591321
+    second: space_JellyFish_19
+  - first:
+      213: 8684710470409128064
+    second: space_JellyFish_20
+  - first:
+      213: -214985811199426342
+    second: space_JellyFish_21
+  - first:
+      213: -5406021435935356482
+    second: space_JellyFish_22
+  - first:
+      213: 2314083742041386117
+    second: space_JellyFish_23
+  - first:
+      213: -4276445682997063932
+    second: space_JellyFish_24
+  - first:
+      213: 2478098439749813731
+    second: space_JellyFish_25
+  - first:
+      213: -5487629539728342013
+    second: space_JellyFish_26
+  - first:
+      213: -2623822764112710392
+    second: space_JellyFish_27
+  - first:
+      213: 8145118313667179480
+    second: space_JellyFish_28
+  - first:
+      213: 4674535305671915837
+    second: space_JellyFish_29
+  - first:
+      213: 6226778774426834073
+    second: space_JellyFish_30
+  - first:
+      213: 1918433872882573189
+    second: space_JellyFish_31
+  - first:
+      213: 8197207271402818820
+    second: space_JellyFish_32
+  - first:
+      213: -6512567543778685941
+    second: space_JellyFish_33
+  - first:
+      213: -5297185282916688820
+    second: space_JellyFish_34
+  - first:
+      213: -8621465586595425790
+    second: space_JellyFish_35
+  - first:
+      213: 2766206133564620583
+    second: space_JellyFish_36
+  - first:
+      213: -4530763710398701924
+    second: space_JellyFish_37
+  - first:
+      213: -2213465536581486732
+    second: space_JellyFish_38
+  - first:
+      213: -3505922993401496810
+    second: space_JellyFish_39
+  - first:
+      213: -6507570558174932723
+    second: space_JellyFish_40
+  - first:
+      213: -4905457325976994430
+    second: space_JellyFish_41
+  - first:
+      213: 8210387390761576781
+    second: space_JellyFish_42
+  - first:
+      213: -480153464127462502
+    second: space_JellyFish_43
+  - first:
+      213: 3645037272526149244
+    second: space_JellyFish_44
+  - first:
+      213: 3874202617803259247
+    second: space_JellyFish_45
+  - first:
+      213: -3591241631297572927
+    second: space_JellyFish_46
+  - first:
+      213: -5965530736124158203
+    second: space_JellyFish_47
+  - first:
+      213: 2041823983458928778
+    second: space_JellyFish_48
+  - first:
+      213: -7168923512543673052
+    second: space_JellyFish_49
+  - first:
+      213: -7495975623357072512
+    second: space_JellyFish_50
+  - first:
+      213: 6151090531654337848
+    second: space_JellyFish_51
+  - first:
+      213: -8610396918309351753
+    second: space_JellyFish_52
+  - first:
+      213: -8336340022384805269
+    second: space_JellyFish_53
+  - first:
+      213: 5833331178830054709
+    second: space_JellyFish_54
+  - first:
+      213: 2609451448441573783
+    second: space_JellyFish_55
+  - first:
+      213: 5856960296826060286
+    second: space_JellyFish_56
+  - first:
+      213: -6587025221227966099
+    second: space_JellyFish_57
+  - first:
+      213: -7982789701710836453
+    second: space_JellyFish_58
+  - first:
+      213: -7961139469445229030
+    second: space_JellyFish_59
+  - first:
+      213: 4897845305684828177
+    second: space_JellyFish_60
+  - first:
+      213: -7683221751787214509
+    second: space_JellyFish_61
+  - first:
+      213: 5390203627765263894
+    second: space_JellyFish_62
+  - first:
+      213: -5705650583549258397
+    second: space_JellyFish_63
+  - first:
+      213: -1109841137361200868
+    second: space_JellyFish_64
+  - first:
+      213: -7854094456518638869
+    second: space_JellyFish_65
+  - first:
+      213: -4263447520286046533
+    second: space_JellyFish_66
+  - first:
+      213: -3048761917536655734
+    second: space_JellyFish_67
+  - first:
+      213: 5347340675878830941
+    second: space_JellyFish_68
+  - first:
+      213: 4840484007320730350
+    second: space_JellyFish_69
+  - first:
+      213: 225840531251355968
+    second: space_JellyFish_70
+  - first:
+      213: 4557424665178133747
+    second: space_JellyFish_71
+  - first:
+      213: 685354938046494307
+    second: space_JellyFish_72
+  - first:
+      213: -8734627848286740395
+    second: space_JellyFish_73
+  - first:
+      213: 516359807459871800
+    second: space_JellyFish_74
+  - first:
+      213: 7989093219090206744
+    second: space_JellyFish_75
+  - first:
+      213: 3355986238604782956
+    second: space_JellyFish_76
+  - first:
+      213: -3801937750022908414
+    second: space_JellyFish_77
+  - first:
+      213: 4785477795921092506
+    second: space_JellyFish_78
+  - first:
+      213: -1173182057627507312
+    second: space_JellyFish_79
+  - first:
+      213: -4799492158597771477
+    second: space_JellyFish_80
+  - first:
+      213: -3589521612449658251
+    second: space_JellyFish_81
+  - first:
+      213: 7565546433224942023
+    second: space_JellyFish_82
+  - first:
+      213: -7732733240090723556
+    second: space_JellyFish_83
+  - first:
+      213: -1531536701703602158
+    second: space_JellyFish_84
+  - first:
+      213: -2196287746516258597
+    second: space_JellyFish_85
+  - first:
+      213: -5525272893901896098
+    second: space_JellyFish_86
+  - first:
+      213: -2123494047559977699
+    second: space_JellyFish_87
+  - first:
+      213: -1077812986579372633
+    second: space_JellyFish_88
+  - first:
+      213: 983356071888724365
+    second: space_JellyFish_89
+  - first:
+      213: 5158545341270808706
+    second: space_JellyFish_90
+  - first:
+      213: -6402473838602366931
+    second: space_JellyFish_91
+  - first:
+      213: -6922510368076560673
+    second: space_JellyFish_92
+  - first:
+      213: 5197142692501925653
+    second: space_JellyFish_93
+  - first:
+      213: 569086353724907194
+    second: space_JellyFish_94
+  - first:
+      213: -7586777305028504666
+    second: space_JellyFish_95
+  - first:
+      213: -1397528908746533153
+    second: space_JellyFish_96
+  - first:
+      213: 8373007257434327809
+    second: space_JellyFish_97
+  - first:
+      213: -4629929655507095428
+    second: space_JellyFish_98
+  - first:
+      213: 348326166632694560
+    second: space_JellyFish_99
+  - first:
+      213: -3074577641686864987
+    second: space_JellyFish_100
+  - first:
+      213: -674676558291954812
+    second: space_JellyFish_101
+  - first:
+      213: 6580815822600370489
+    second: space_JellyFish_102
+  - first:
+      213: 7582207995575199640
+    second: space_JellyFish_103
+  - first:
+      213: 2368989314982481196
+    second: space_JellyFish_104
+  - first:
+      213: -7607823199050854043
+    second: space_JellyFish_105
+  - first:
+      213: 7324391333954890494
+    second: space_JellyFish_106
+  - first:
+      213: -3939998300833497252
+    second: space_JellyFish_107
+  - first:
+      213: -6039016523157403994
+    second: space_JellyFish_108
+  - first:
+      213: 4307013424690211700
+    second: space_JellyFish_109
+  - first:
+      213: 8425402250288558108
+    second: space_JellyFish_110
+  - first:
+      213: 3219218886242371373
+    second: space_JellyFish_111
+  - first:
+      213: 8787481676127984547
+    second: space_JellyFish_112
+  - first:
+      213: 6784287171679045314
+    second: space_JellyFish_113
+  - first:
+      213: -8903750881776252800
+    second: space_JellyFish_114
+  - first:
+      213: -4436571218683801943
+    second: space_JellyFish_115
+  - first:
+      213: 5564435609249621797
+    second: space_JellyFish_116
+  - first:
+      213: -5875726327170064155
+    second: space_JellyFish_117
+  - first:
+      213: -2289774389475211456
+    second: space_JellyFish_118
+  - first:
+      213: -1627415636962699322
+    second: space_JellyFish_119
+  - first:
+      213: -2112836974707059998
+    second: space_JellyFish_120
+  - first:
+      213: 4883907741767074648
+    second: space_JellyFish_121
+  - first:
+      213: -928719339064230444
+    second: space_JellyFish_122
+  - first:
+      213: -1626773942226171816
+    second: space_JellyFish_123
+  - first:
+      213: -8142824821156307900
+    second: space_JellyFish_124
+  - first:
+      213: -3763659897933195538
+    second: space_JellyFish_125
+  - first:
+      213: 7687976959460970705
+    second: space_JellyFish_126
+  - first:
+      213: 3516540090320295190
+    second: space_JellyFish_127
+  - first:
+      213: 7653126388525810612
+    second: space_JellyFish_128
+  - first:
+      213: -5960985782718204733
+    second: space_JellyFish_129
+  - first:
+      213: -9101038240865035020
+    second: space_JellyFish_130
+  - first:
+      213: 8426722959261776625
+    second: space_JellyFish_131
+  - first:
+      213: -6966885797382755450
+    second: space_JellyFish_132
+  - first:
+      213: 4759269480920437468
+    second: space_JellyFish_133
+  - first:
+      213: 1530053315568758157
+    second: space_JellyFish_134
+  - first:
+      213: 836141833746838055
+    second: space_JellyFish_135
+  - first:
+      213: -4135070909814037032
+    second: space_JellyFish_136
+  - first:
+      213: 8086203252243581812
+    second: space_JellyFish_137
+  - first:
+      213: -3754355567104868716
+    second: space_JellyFish_138
+  - first:
+      213: -6316457316965118281
+    second: space_JellyFish_139
+  - first:
+      213: 3628832280656359897
+    second: space_JellyFish_140
+  - first:
+      213: 4565507152675650402
+    second: space_JellyFish_141
+  - first:
+      213: -4301114834893358980
+    second: space_JellyFish_142
+  - first:
+      213: -3435539421216109394
+    second: space_JellyFish_143
+  - first:
+      213: 910610026761568106
+    second: space_JellyFish_144
+  - first:
+      213: 5701764128982672556
+    second: space_JellyFish_145
+  - first:
+      213: 158503387885874825
+    second: space_JellyFish_146
+  - first:
+      213: 7176144458356254401
+    second: space_JellyFish_147
+  - first:
+      213: 6923440725029257523
+    second: space_JellyFish_148
+  - first:
+      213: -1979081402574838519
+    second: space_JellyFish_149
+  - first:
+      213: 6598786653906496790
+    second: space_JellyFish_150
+  - first:
+      213: 2783516206357071614
+    second: space_JellyFish_151
+  - first:
+      213: 475568810291888495
+    second: space_JellyFish_152
+  - first:
+      213: -5028437400633066226
+    second: space_JellyFish_153
+  - first:
+      213: -240162332695227151
+    second: space_JellyFish_154
+  - first:
+      213: 3310765006219127328
+    second: space_JellyFish_155
+  - first:
+      213: -9191222787422340043
+    second: space_JellyFish_156
+  - first:
+      213: 916722715449698395
+    second: space_JellyFish_157
+  - first:
+      213: 1146999598243409200
+    second: space_JellyFish_158
+  - first:
+      213: -5850660644254547296
+    second: space_JellyFish_159
+  - first:
+      213: -1468226547140730798
+    second: space_JellyFish_160
+  - first:
+      213: 7652856502668634933
+    second: space_JellyFish_161
+  - first:
+      213: -8851622690682383071
+    second: space_JellyFish_162
+  - first:
+      213: -1135603513443633312
+    second: space_JellyFish_163
+  - first:
+      213: 4447665432860388650
+    second: space_JellyFish_164
+  - first:
+      213: -6384301632117849907
+    second: space_JellyFish_165
+  - first:
+      213: -1464720537354968744
+    second: space_JellyFish_166
+  - first:
+      213: -7497806000183537344
+    second: space_JellyFish_167
+  - first:
+      213: -7460524601804704251
+    second: space_JellyFish_168
+  - first:
+      213: 2867712641889313382
+    second: space_JellyFish_169
+  - first:
+      213: -1416546450196715427
+    second: space_JellyFish_170
+  - first:
+      213: 7926161368946613742
+    second: space_JellyFish_171
+  - first:
+      213: 4681210296391549376
+    second: space_JellyFish_172
+  - first:
+      213: -5437380962145771719
+    second: space_JellyFish_173
+  - first:
+      213: -2728002267768952988
+    second: space_JellyFish_174
+  - first:
+      213: 4640436495887293042
+    second: space_JellyFish_175
+  - first:
+      213: 654066357609802945
+    second: space_JellyFish_176
+  - first:
+      213: -8401426610044185040
+    second: space_JellyFish_177
+  - first:
+      213: -7815010167820377578
+    second: space_JellyFish_178
+  - first:
+      213: 678251067785459297
+    second: space_JellyFish_179
+  - first:
+      213: 5683070380974847596
+    second: space_JellyFish_180
+  - first:
+      213: 8934284042241951203
+    second: space_JellyFish_181
+  - first:
+      213: 6926478531370370290
+    second: space_JellyFish_182
+  - first:
+      213: -3055981086639805168
+    second: space_JellyFish_183
+  - first:
+      213: 1525147350425829635
+    second: space_JellyFish_184
+  - first:
+      213: 1114919375780736621
+    second: space_JellyFish_185
+  - first:
+      213: 244691756395983227
+    second: space_JellyFish_186
+  - first:
+      213: 8215157594881529761
+    second: space_JellyFish_187
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: space_JellyFish_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 886
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b1aef4887688560800000000000000
+      internalID: 7316211429817326384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_1
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 879
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa3dcfd1cbf01e20800000000000000
+      internalID: 3319429735474084599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_2
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 885
+        width: 223
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd5da094c4fe4e40800000000000000
+      internalID: 5642716508219858421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_3
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 879
+        width: 223
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0649f520753b53480800000000000000
+      internalID: -8920026300654054304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_4
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 879
+        width: 223
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5556fba24a53eae50800000000000000
+      internalID: 6822449464720975189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_5
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 879
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cab845b88a5ee9d0800000000000000
+      internalID: -2743155579818558778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_6
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 879
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4c6fc1a7d2e7660800000000000000
+      internalID: 7385390441429386414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_7
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 879
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca2eedab09ca2b80800000000000000
+      internalID: -8418695501415830842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_8
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 879
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98623f9a50619ce0800000000000000
+      internalID: -1400232066801309538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_9
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 879
+        width: 225
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0665470de745b9bb0800000000000000
+      internalID: -4928252463586978208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_10
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 879
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbaf43c36e8f8bd0800000000000000
+      internalID: -2625723498604024880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_11
+      rect:
+        serializedVersion: 2
+        x: 4753
+        y: 879
+        width: 225
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20db41b0459792000800000000000000
+      internalID: 11673875915259138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_12
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 879
+        width: 226
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057839213cb61c080800000000000000
+      internalID: -9168928880775166128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_13
+      rect:
+        serializedVersion: 2
+        x: 5603
+        y: 882
+        width: 224
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5480df4ad1a748780800000000000000
+      internalID: -8681679913922787259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_14
+      rect:
+        serializedVersion: 2
+        x: 6017
+        y: 879
+        width: 223
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea61df00f2d0c7670800000000000000
+      internalID: 8537713489118828206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_15
+      rect:
+        serializedVersion: 2
+        x: 6431
+        y: 879
+        width: 224
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b0c174d0463fb10800000000000000
+      internalID: 2014063466555116382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_16
+      rect:
+        serializedVersion: 2
+        x: 6850
+        y: 882
+        width: 224
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b4d577b79d216e0800000000000000
+      internalID: -1868191771098526941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_17
+      rect:
+        serializedVersion: 2
+        x: 7278
+        y: 884
+        width: 224
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea2b4ce725eba190800000000000000
+      internalID: -7950008757561644309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_18
+      rect:
+        serializedVersion: 2
+        x: 7703
+        y: 880
+        width: 224
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08bfadca43a839b0800000000000000
+      internalID: -5100147036323334130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_19
+      rect:
+        serializedVersion: 2
+        x: 8123
+        y: 879
+        width: 223
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f76a5910b80c4e0800000000000000
+      internalID: -1963416598611591321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_20
+      rect:
+        serializedVersion: 2
+        x: 8525
+        y: 878
+        width: 225
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0880ad5c82a468870800000000000000
+      internalID: 8684710470409128064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_21
+      rect:
+        serializedVersion: 2
+        x: 8944
+        y: 885
+        width: 225
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad085b33b87340df0800000000000000
+      internalID: -214985811199426342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_22
+      rect:
+        serializedVersion: 2
+        x: 9379
+        y: 884
+        width: 223
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb90de67524f9f4b0800000000000000
+      internalID: -5406021435935356482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_23
+      rect:
+        serializedVersion: 2
+        x: 9790
+        y: 882
+        width: 223
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c22e027e64d1020800000000000000
+      internalID: 2314083742041386117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_24
+      rect:
+        serializedVersion: 2
+        x: 10211
+        y: 882
+        width: 223
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f05b31f4307a4c0800000000000000
+      internalID: -4276445682997063932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_25
+      rect:
+        serializedVersion: 2
+        x: 10635
+        y: 879
+        width: 224
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5ccb3c669f36220800000000000000
+      internalID: 2478098439749813731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_26
+      rect:
+        serializedVersion: 2
+        x: 11053
+        y: 882
+        width: 223
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3044d81220608d3b0800000000000000
+      internalID: -5487629539728342013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_27
+      rect:
+        serializedVersion: 2
+        x: 11479
+        y: 882
+        width: 222
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8057a7ff81f469bd0800000000000000
+      internalID: -2623822764112710392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_28
+      rect:
+        serializedVersion: 2
+        x: 11893
+        y: 883
+        width: 225
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d339ab93f5490170800000000000000
+      internalID: 8145118313667179480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_29
+      rect:
+        serializedVersion: 2
+        x: 12314
+        y: 883
+        width: 225
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39b89008194fd040800000000000000
+      internalID: 4674535305671915837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_30
+      rect:
+        serializedVersion: 2
+        x: 12736
+        y: 882
+        width: 223
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99457a0fd46f96650800000000000000
+      internalID: 6226778774426834073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_31
+      rect:
+        serializedVersion: 2
+        x: 13150
+        y: 878
+        width: 222
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f1e3e6175af9a10800000000000000
+      internalID: 1918433872882573189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_32
+      rect:
+        serializedVersion: 2
+        x: 13573
+        y: 880
+        width: 223
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dc63a259452c170800000000000000
+      internalID: 8197207271402818820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_33
+      rect:
+        serializedVersion: 2
+        x: 13990
+        y: 871
+        width: 224
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c4551f256be95a0800000000000000
+      internalID: -6512567543778685941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_34
+      rect:
+        serializedVersion: 2
+        x: 14410
+        y: 871
+        width: 226
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cd2560d0e9c76b0800000000000000
+      internalID: -5297185282916688820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_35
+      rect:
+        serializedVersion: 2
+        x: 14839
+        y: 871
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20299bb3ab66a5880800000000000000
+      internalID: -8621465586595425790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_36
+      rect:
+        serializedVersion: 2
+        x: 15262
+        y: 871
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f30ae82d9836620800000000000000
+      internalID: 2766206133564620583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_37
+      rect:
+        serializedVersion: 2
+        x: 15667
+        y: 879
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e5470196e7f11c0800000000000000
+      internalID: -4530763710398701924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_38
+      rect:
+        serializedVersion: 2
+        x: 16086
+        y: 880
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477bd7962d03841e0800000000000000
+      internalID: -2213465536581486732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_39
+      rect:
+        serializedVersion: 2
+        x: 16506
+        y: 877
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bfd68dc95785fc0800000000000000
+      internalID: -3505922993401496810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_40
+      rect:
+        serializedVersion: 2
+        x: 16922
+        y: 879
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0151315e0770b5a0800000000000000
+      internalID: -6507570558174932723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_41
+      rect:
+        serializedVersion: 2
+        x: 17332
+        y: 884
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dbd406d805cebb0800000000000000
+      internalID: -4905457325976994430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_42
+      rect:
+        serializedVersion: 2
+        x: 17776
+        y: 882
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49a0b6d4d721f170800000000000000
+      internalID: 8210387390761576781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_43
+      rect:
+        serializedVersion: 2
+        x: 18221
+        y: 877
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a936205e7f62659f0800000000000000
+      internalID: -480153464127462502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_44
+      rect:
+        serializedVersion: 2
+        x: 18666
+        y: 868
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76dafd4616c59230800000000000000
+      internalID: 3645037272526149244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_45
+      rect:
+        serializedVersion: 2
+        x: 19111
+        y: 876
+        width: 223
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d3d0621cee3c530800000000000000
+      internalID: 3874202617803259247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_46
+      rect:
+        serializedVersion: 2
+        x: 19554
+        y: 868
+        width: 223
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfe9e773c8592ec0800000000000000
+      internalID: -3591241631297572927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 587
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f15a8f66d263da0800000000000000
+      internalID: -5965530736124158203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_48
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 580
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8841fb4814065c10800000000000000
+      internalID: 2041823983458928778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_49
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 586
+        width: 223
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42583e44c0ed28c90800000000000000
+      internalID: -7168923512543673052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_50
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 580
+        width: 223
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b70dcc2e1f8f790800000000000000
+      internalID: -7495975623357072512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_51
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 580
+        width: 223
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8358688af301d5550800000000000000
+      internalID: 6151090531654337848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_52
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 580
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be8d056f99b18880800000000000000
+      internalID: -8610396918309351753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_53
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 580
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ab1eedaee5f4c80800000000000000
+      internalID: -8336340022384805269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_54
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 580
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53540630dc724f050800000000000000
+      internalID: 5833331178830054709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_55
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 580
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7911df25442a63420800000000000000
+      internalID: 2609451448441573783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_56
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 580
+        width: 225
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd32e3cb5a184150800000000000000
+      internalID: 5856960296826060286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_57
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 580
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d611b2af57f2694a0800000000000000
+      internalID: -6587025221227966099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_58
+      rect:
+        serializedVersion: 2
+        x: 4753
+        y: 580
+        width: 225
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d01e89f0f673190800000000000000
+      internalID: -7982789701710836453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_59
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 580
+        width: 226
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16106c15d9548190800000000000000
+      internalID: -7961139469445229030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_60
+      rect:
+        serializedVersion: 2
+        x: 5603
+        y: 583
+        width: 224
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110a82a0b54a8f340800000000000000
+      internalID: 4897845305684828177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_61
+      rect:
+        serializedVersion: 2
+        x: 6017
+        y: 580
+        width: 223
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3592b223686bf5590800000000000000
+      internalID: -7683221751787214509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_62
+      rect:
+        serializedVersion: 2
+        x: 6431
+        y: 580
+        width: 224
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e68f314a9ddca40800000000000000
+      internalID: 5390203627765263894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_63
+      rect:
+        serializedVersion: 2
+        x: 6850
+        y: 583
+        width: 224
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365db0b260571d0b0800000000000000
+      internalID: -5705650583549258397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_64
+      rect:
+        serializedVersion: 2
+        x: 7278
+        y: 585
+        width: 224
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c195872ad5d0990f0800000000000000
+      internalID: -1109841137361200868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_65
+      rect:
+        serializedVersion: 2
+        x: 7703
+        y: 581
+        width: 224
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be287de54b6a00390800000000000000
+      internalID: -7854094456518638869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_66
+      rect:
+        serializedVersion: 2
+        x: 8123
+        y: 580
+        width: 223
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb684daa11135d4c0800000000000000
+      internalID: -4263447520286046533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_67
+      rect:
+        serializedVersion: 2
+        x: 8525
+        y: 579
+        width: 225
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a862d74603f90b5d0800000000000000
+      internalID: -3048761917536655734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_68
+      rect:
+        serializedVersion: 2
+        x: 8944
+        y: 586
+        width: 225
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5341c66302953a40800000000000000
+      internalID: 5347340675878830941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_69
+      rect:
+        serializedVersion: 2
+        x: 9379
+        y: 585
+        width: 223
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeabf450f8adc2340800000000000000
+      internalID: 4840484007320730350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_70
+      rect:
+        serializedVersion: 2
+        x: 9790
+        y: 583
+        width: 223
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0416f1144c8522300800000000000000
+      internalID: 225840531251355968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_71
+      rect:
+        serializedVersion: 2
+        x: 10211
+        y: 583
+        width: 223
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4db8236993f3f30800000000000000
+      internalID: 4557424665178133747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_72
+      rect:
+        serializedVersion: 2
+        x: 10635
+        y: 580
+        width: 224
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366325b5faed28900800000000000000
+      internalID: 685354938046494307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_73
+      rect:
+        serializedVersion: 2
+        x: 11053
+        y: 583
+        width: 223
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55062a1004e58c680800000000000000
+      internalID: -8734627848286740395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_74
+      rect:
+        serializedVersion: 2
+        x: 11479
+        y: 583
+        width: 222
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c4fe3528a7a2700800000000000000
+      internalID: 516359807459871800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_75
+      rect:
+        serializedVersion: 2
+        x: 11893
+        y: 584
+        width: 225
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8109a5964f5fede60800000000000000
+      internalID: 7989093219090206744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_76
+      rect:
+        serializedVersion: 2
+        x: 12314
+        y: 584
+        width: 225
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d232704bbd29e20800000000000000
+      internalID: 3355986238604782956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_77
+      rect:
+        serializedVersion: 2
+        x: 12736
+        y: 583
+        width: 223
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2069cb782cdcc3bc0800000000000000
+      internalID: -3801937750022908414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_78
+      rect:
+        serializedVersion: 2
+        x: 13150
+        y: 579
+        width: 222
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f556a63be696240800000000000000
+      internalID: 4785477795921092506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_79
+      rect:
+        serializedVersion: 2
+        x: 13573
+        y: 581
+        width: 223
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0952046622508bfe0800000000000000
+      internalID: -1173182057627507312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_80
+      rect:
+        serializedVersion: 2
+        x: 13990
+        y: 572
+        width: 224
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fc1808f47c46db0800000000000000
+      internalID: -4799492158597771477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_81
+      rect:
+        serializedVersion: 2
+        x: 14410
+        y: 572
+        width: 226
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ac9509c157f2ec0800000000000000
+      internalID: -3589521612449658251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_82
+      rect:
+        serializedVersion: 2
+        x: 14839
+        y: 572
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1a814a5683ef860800000000000000
+      internalID: 7565546433224942023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_83
+      rect:
+        serializedVersion: 2
+        x: 15262
+        y: 572
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b79818610dfa490800000000000000
+      internalID: -7732733240090723556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_84
+      rect:
+        serializedVersion: 2
+        x: 15667
+        y: 580
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210cb76fb73eebae0800000000000000
+      internalID: -1531536701703602158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_85
+      rect:
+        serializedVersion: 2
+        x: 16086
+        y: 581
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0fa545ee73581e0800000000000000
+      internalID: -2196287746516258597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_86
+      rect:
+        serializedVersion: 2
+        x: 16506
+        y: 578
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5602efb3994253b0800000000000000
+      internalID: -5525272893901896098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_87
+      rect:
+        serializedVersion: 2
+        x: 16922
+        y: 580
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15f78c1a65d782e0800000000000000
+      internalID: -2123494047559977699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_88
+      rect:
+        serializedVersion: 2
+        x: 17332
+        y: 585
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a532a89cc6da01f0800000000000000
+      internalID: -1077812986579372633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_89
+      rect:
+        serializedVersion: 2
+        x: 17776
+        y: 583
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81a6a8232595ad00800000000000000
+      internalID: 983356071888724365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_90
+      rect:
+        serializedVersion: 2
+        x: 18221
+        y: 578
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288513028a5d69740800000000000000
+      internalID: 5158545341270808706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_91
+      rect:
+        serializedVersion: 2
+        x: 18666
+        y: 569
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20df5e27f7d527a0800000000000000
+      internalID: -6402473838602366931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_92
+      rect:
+        serializedVersion: 2
+        x: 19111
+        y: 577
+        width: 223
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd686dc4f7d4eef90800000000000000
+      internalID: -6922510368076560673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_93
+      rect:
+        serializedVersion: 2
+        x: 19554
+        y: 569
+        width: 223
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f28914eb5ff1840800000000000000
+      internalID: 5197142692501925653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 307
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe9b48060dc5e700800000000000000
+      internalID: 569086353724907194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_95
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 300
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3d7cfcc3a56b690800000000000000
+      internalID: -7586777305028504666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_96
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 306
+        width: 223
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6d2d6acdafa9ce0800000000000000
+      internalID: -1397528908746533153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_97
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 300
+        width: 223
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b04211db5e23470800000000000000
+      internalID: 8373007257434327809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_98
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 300
+        width: 223
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70f37c328f2fbfb0800000000000000
+      internalID: -4629929655507095428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_99
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 300
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0238d149dc085d400800000000000000
+      internalID: 348326166632694560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_100
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 300
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab65e8bce7e455d0800000000000000
+      internalID: -3074577641686864987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_101
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 300
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48399bcae3113a6f0800000000000000
+      internalID: -674676558291954812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_102
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 300
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9397d5ebf11c35b50800000000000000
+      internalID: 6580815822600370489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_103
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 300
+        width: 225
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897e26deff9693960800000000000000
+      internalID: 7582207995575199640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_104
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 300
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d0a340b3750e020800000000000000
+      internalID: 2368989314982481196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_105
+      rect:
+        serializedVersion: 2
+        x: 4753
+        y: 300
+        width: 225
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5611992cb159b6690800000000000000
+      internalID: -7607823199050854043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_106
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 300
+        width: 226
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaa458ac1775a560800000000000000
+      internalID: 7324391333954890494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_107
+      rect:
+        serializedVersion: 2
+        x: 5603
+        y: 303
+        width: 224
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f3d2f9b605259c0800000000000000
+      internalID: -3939998300833497252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_108
+      rect:
+        serializedVersion: 2
+        x: 6017
+        y: 300
+        width: 223
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a60d70e77a113ca0800000000000000
+      internalID: -6039016523157403994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_109
+      rect:
+        serializedVersion: 2
+        x: 6431
+        y: 300
+        width: 224
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47baf75e3e595cb30800000000000000
+      internalID: 4307013424690211700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_110
+      rect:
+        serializedVersion: 2
+        x: 6850
+        y: 303
+        width: 224
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10f93af4ba0de470800000000000000
+      internalID: 8425402250288558108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_111
+      rect:
+        serializedVersion: 2
+        x: 7278
+        y: 305
+        width: 224
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2784b85586fcac20800000000000000
+      internalID: 3219218886242371373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_112
+      rect:
+        serializedVersion: 2
+        x: 7703
+        y: 301
+        width: 224
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abdcdfb60863f970800000000000000
+      internalID: 8787481676127984547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_113
+      rect:
+        serializedVersion: 2
+        x: 8123
+        y: 300
+        width: 223
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c64b2aec31a62e50800000000000000
+      internalID: 6784287171679045314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_114
+      rect:
+        serializedVersion: 2
+        x: 8525
+        y: 299
+        width: 225
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088c7234fb58f6480800000000000000
+      internalID: -8903750881776252800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_115
+      rect:
+        serializedVersion: 2
+        x: 8944
+        y: 306
+        width: 225
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae41a98bf12e62c0800000000000000
+      internalID: -4436571218683801943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_116
+      rect:
+        serializedVersion: 2
+        x: 9379
+        y: 305
+        width: 223
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527abd874b8d83d40800000000000000
+      internalID: 5564435609249621797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_117
+      rect:
+        serializedVersion: 2
+        x: 9790
+        y: 303
+        width: 223
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e02e9f490a357ea0800000000000000
+      internalID: -5875726327170064155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_118
+      rect:
+        serializedVersion: 2
+        x: 10211
+        y: 303
+        width: 223
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0470b8313561930e0800000000000000
+      internalID: -2289774389475211456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_119
+      rect:
+        serializedVersion: 2
+        x: 10635
+        y: 300
+        width: 224
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c71ce0c9124a69e0800000000000000
+      internalID: -1627415636962699322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_120
+      rect:
+        serializedVersion: 2
+        x: 11053
+        y: 303
+        width: 223
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2564e37f1bda2e0800000000000000
+      internalID: -2112836974707059998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_121
+      rect:
+        serializedVersion: 2
+        x: 11479
+        y: 303
+        width: 222
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8538ecf073027c340800000000000000
+      internalID: 4883907741767074648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_122
+      rect:
+        serializedVersion: 2
+        x: 11893
+        y: 304
+        width: 225
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd7a038ea68c13f0800000000000000
+      internalID: -928719339064230444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_123
+      rect:
+        serializedVersion: 2
+        x: 12314
+        y: 304
+        width: 225
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8584fb3f7b98c69e0800000000000000
+      internalID: -1626773942226171816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_124
+      rect:
+        serializedVersion: 2
+        x: 12736
+        y: 303
+        width: 223
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c9ebab7ffdefe80800000000000000
+      internalID: -8142824821156307900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_125
+      rect:
+        serializedVersion: 2
+        x: 13150
+        y: 299
+        width: 222
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee61f48734bc4cbc0800000000000000
+      internalID: -3763659897933195538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_126
+      rect:
+        serializedVersion: 2
+        x: 13573
+        y: 301
+        width: 223
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d01f0edf4e21ba60800000000000000
+      internalID: 7687976959460970705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_127
+      rect:
+        serializedVersion: 2
+        x: 13990
+        y: 292
+        width: 224
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61516f9a4924dc030800000000000000
+      internalID: 3516540090320295190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_128
+      rect:
+        serializedVersion: 2
+        x: 14410
+        y: 292
+        width: 226
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3cf3107ed553a60800000000000000
+      internalID: 7653126388525810612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_129
+      rect:
+        serializedVersion: 2
+        x: 14839
+        y: 292
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c47de56303564da0800000000000000
+      internalID: -5960985782718204733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_130
+      rect:
+        serializedVersion: 2
+        x: 15262
+        y: 292
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc5ef570fd92b180800000000000000
+      internalID: -9101038240865035020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_131
+      rect:
+        serializedVersion: 2
+        x: 15667
+        y: 300
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa3d6f72ebb1f470800000000000000
+      internalID: 8426722959261776625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_132
+      rect:
+        serializedVersion: 2
+        x: 16086
+        y: 301
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b69488746a05f90800000000000000
+      internalID: -6966885797382755450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_133
+      rect:
+        serializedVersion: 2
+        x: 16506
+        y: 298
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2de9090625c0240800000000000000
+      internalID: 4759269480920437468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_134
+      rect:
+        serializedVersion: 2
+        x: 16922
+        y: 300
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d62e94267db3510800000000000000
+      internalID: 1530053315568758157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_135
+      rect:
+        serializedVersion: 2
+        x: 17332
+        y: 305
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722f25651929a9b00800000000000000
+      internalID: 836141833746838055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_136
+      rect:
+        serializedVersion: 2
+        x: 17776
+        y: 303
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5ab738ae64d96c0800000000000000
+      internalID: -4135070909814037032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_137
+      rect:
+        serializedVersion: 2
+        x: 18221
+        y: 298
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b469fe307f73070800000000000000
+      internalID: 8086203252243581812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_138
+      rect:
+        serializedVersion: 2
+        x: 18666
+        y: 289
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e343ec089d5ebc0800000000000000
+      internalID: -3754355567104868716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_139
+      rect:
+        serializedVersion: 2
+        x: 19111
+        y: 297
+        width: 223
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be8067498f6758a0800000000000000
+      internalID: -6316457316965118281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_140
+      rect:
+        serializedVersion: 2
+        x: 19554
+        y: 289
+        width: 223
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d13efd9bb33c5230800000000000000
+      internalID: 3628832280656359897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_141
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 27
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bbcb6f090fb5f30800000000000000
+      internalID: 4565507152675650402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_142
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 20
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78b40098de5f44c0800000000000000
+      internalID: -4301114834893358980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_143
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 26
+        width: 223
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac009249138250d0800000000000000
+      internalID: -3435539421216109394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_144
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 20
+        width: 223
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f3806aef223ac00800000000000000
+      internalID: 910610026761568106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_145
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 20
+        width: 223
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4a31d144cb02f40800000000000000
+      internalID: 5701764128982672556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_146
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 20
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e22a2ddfd133200800000000000000
+      internalID: 158503387885874825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_147
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 20
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c666313d59c69360800000000000000
+      internalID: 7176144458356254401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_148
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 20
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33187de48a0051060800000000000000
+      internalID: 6923440725029257523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_149
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 20
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905e1f133f3e884e0800000000000000
+      internalID: -1979081402574838519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_150
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 20
+        width: 225
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d6fa6ff79939b50800000000000000
+      internalID: 6598786653906496790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_151
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 20
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6c472fd3901a620800000000000000
+      internalID: 2783516206357071614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_152
+      rect:
+        serializedVersion: 2
+        x: 4753
+        y: 20
+        width: 225
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6104b3305f899600800000000000000
+      internalID: 475568810291888495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_153
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 20
+        width: 226
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d3aff63d6673ab0800000000000000
+      internalID: -5028437400633066226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_154
+      rect:
+        serializedVersion: 2
+        x: 5603
+        y: 23
+        width: 224
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4954f71a5caacf0800000000000000
+      internalID: -240162332695227151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_155
+      rect:
+        serializedVersion: 2
+        x: 6017
+        y: 20
+        width: 223
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a2c726b3332fd20800000000000000
+      internalID: 3310765006219127328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_156
+      rect:
+        serializedVersion: 2
+        x: 6431
+        y: 20
+        width: 224
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c37307297327080800000000000000
+      internalID: -9191222787422340043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_157
+      rect:
+        serializedVersion: 2
+        x: 6850
+        y: 23
+        width: 224
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5829e3e37ad8bc00800000000000000
+      internalID: 916722715449698395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_158
+      rect:
+        serializedVersion: 2
+        x: 7278
+        y: 25
+        width: 224
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d60dabe06faef00800000000000000
+      internalID: 1146999598243409200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_159
+      rect:
+        serializedVersion: 2
+        x: 7703
+        y: 21
+        width: 224
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a289d564274ecea0800000000000000
+      internalID: -5850660644254547296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_160
+      rect:
+        serializedVersion: 2
+        x: 8123
+        y: 20
+        width: 223
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250e0effbbfcf9be0800000000000000
+      internalID: -1468226547140730798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_161
+      rect:
+        serializedVersion: 2
+        x: 8525
+        y: 19
+        width: 225
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b2a9e4178643a60800000000000000
+      internalID: 7652856502668634933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_162
+      rect:
+        serializedVersion: 2
+        x: 8944
+        y: 26
+        width: 225
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125d61c8f08b82580800000000000000
+      internalID: -8851622690682383071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_163
+      rect:
+        serializedVersion: 2
+        x: 9379
+        y: 25
+        width: 223
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067b1870f968d30f0800000000000000
+      internalID: -1135603513443633312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_164
+      rect:
+        serializedVersion: 2
+        x: 9790
+        y: 23
+        width: 223
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d6d6d752849bd30800000000000000
+      internalID: 4447665432860388650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_165
+      rect:
+        serializedVersion: 2
+        x: 10211
+        y: 23
+        width: 223
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc04ba6bd776667a0800000000000000
+      internalID: -6384301632117849907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_166
+      rect:
+        serializedVersion: 2
+        x: 10635
+        y: 20
+        width: 224
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851ecb38e644cabe0800000000000000
+      internalID: -1464720537354968744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_167
+      rect:
+        serializedVersion: 2
+        x: 11053
+        y: 23
+        width: 223
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041944cfa2172f790800000000000000
+      internalID: -7497806000183537344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_168
+      rect:
+        serializedVersion: 2
+        x: 11479
+        y: 23
+        width: 222
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5063e57f664e67890800000000000000
+      internalID: -7460524601804704251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_169
+      rect:
+        serializedVersion: 2
+        x: 11893
+        y: 24
+        width: 225
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662a5b934792cc720800000000000000
+      internalID: 2867712641889313382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_170
+      rect:
+        serializedVersion: 2
+        x: 12314
+        y: 24
+        width: 225
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d582f2c328a675ce0800000000000000
+      internalID: -1416546450196715427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_171
+      rect:
+        serializedVersion: 2
+        x: 12736
+        y: 23
+        width: 223
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed9c7c35c16ffd60800000000000000
+      internalID: 7926161368946613742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_172
+      rect:
+        serializedVersion: 2
+        x: 13150
+        y: 19
+        width: 222
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1c15366fff6f040800000000000000
+      internalID: 4681210296391549376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_173
+      rect:
+        serializedVersion: 2
+        x: 13573
+        y: 21
+        width: 223
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f54dac2da8a84b0800000000000000
+      internalID: -5437380962145771719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_174
+      rect:
+        serializedVersion: 2
+        x: 13990
+        y: 12
+        width: 224
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467eb2b1460342ad0800000000000000
+      internalID: -2728002267768952988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_175
+      rect:
+        serializedVersion: 2
+        x: 14410
+        y: 12
+        width: 226
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ade1c2864266040800000000000000
+      internalID: 4640436495887293042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_176
+      rect:
+        serializedVersion: 2
+        x: 14839
+        y: 12
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccadd803e5b31900800000000000000
+      internalID: 654066357609802945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_177
+      rect:
+        serializedVersion: 2
+        x: 15262
+        y: 12
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0365dc5c203286b80800000000000000
+      internalID: -8401426610044185040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_178
+      rect:
+        serializedVersion: 2
+        x: 15667
+        y: 20
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612200778a18b8390800000000000000
+      internalID: -7815010167820377578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_179
+      rect:
+        serializedVersion: 2
+        x: 16086
+        y: 21
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166b1eba0c1a96900800000000000000
+      internalID: 678251067785459297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_180
+      rect:
+        serializedVersion: 2
+        x: 16506
+        y: 18
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66bc8bb6625ede40800000000000000
+      internalID: 5683070380974847596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_181
+      rect:
+        serializedVersion: 2
+        x: 16922
+        y: 20
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5c5442004fcfb70800000000000000
+      internalID: 8934284042241951203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_182
+      rect:
+        serializedVersion: 2
+        x: 17332
+        y: 25
+        width: 224
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f443b6b68bcf1060800000000000000
+      internalID: 6926478531370370290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_183
+      rect:
+        serializedVersion: 2
+        x: 17776
+        y: 23
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01da58a9469f695d0800000000000000
+      internalID: -3055981086639805168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_184
+      rect:
+        serializedVersion: 2
+        x: 18221
+        y: 18
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30182444f696a2510800000000000000
+      internalID: 1525147350425829635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_185
+      rect:
+        serializedVersion: 2
+        x: 18666
+        y: 9
+        width: 225
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e6c92e34df87f00800000000000000
+      internalID: 1114919375780736621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_186
+      rect:
+        serializedVersion: 2
+        x: 19111
+        y: 17
+        width: 223
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71f2732bd1556300800000000000000
+      internalID: 244691756395983227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_JellyFish_187
+      rect:
+        serializedVersion: 2
+        x: 19554
+        y: 9
+        width: 223
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a714c88e4a120270800000000000000
+      internalID: 8215157594881529761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      space_JellyFish_0: 7316211429817326384
+      space_JellyFish_1: 3319429735474084599
+      space_JellyFish_10: -2625723498604024880
+      space_JellyFish_100: -3074577641686864987
+      space_JellyFish_101: -674676558291954812
+      space_JellyFish_102: 6580815822600370489
+      space_JellyFish_103: 7582207995575199640
+      space_JellyFish_104: 2368989314982481196
+      space_JellyFish_105: -7607823199050854043
+      space_JellyFish_106: 7324391333954890494
+      space_JellyFish_107: -3939998300833497252
+      space_JellyFish_108: -6039016523157403994
+      space_JellyFish_109: 4307013424690211700
+      space_JellyFish_11: 11673875915259138
+      space_JellyFish_110: 8425402250288558108
+      space_JellyFish_111: 3219218886242371373
+      space_JellyFish_112: 8787481676127984547
+      space_JellyFish_113: 6784287171679045314
+      space_JellyFish_114: -8903750881776252800
+      space_JellyFish_115: -4436571218683801943
+      space_JellyFish_116: 5564435609249621797
+      space_JellyFish_117: -5875726327170064155
+      space_JellyFish_118: -2289774389475211456
+      space_JellyFish_119: -1627415636962699322
+      space_JellyFish_12: -9168928880775166128
+      space_JellyFish_120: -2112836974707059998
+      space_JellyFish_121: 4883907741767074648
+      space_JellyFish_122: -928719339064230444
+      space_JellyFish_123: -1626773942226171816
+      space_JellyFish_124: -8142824821156307900
+      space_JellyFish_125: -3763659897933195538
+      space_JellyFish_126: 7687976959460970705
+      space_JellyFish_127: 3516540090320295190
+      space_JellyFish_128: 7653126388525810612
+      space_JellyFish_129: -5960985782718204733
+      space_JellyFish_13: -8681679913922787259
+      space_JellyFish_130: -9101038240865035020
+      space_JellyFish_131: 8426722959261776625
+      space_JellyFish_132: -6966885797382755450
+      space_JellyFish_133: 4759269480920437468
+      space_JellyFish_134: 1530053315568758157
+      space_JellyFish_135: 836141833746838055
+      space_JellyFish_136: -4135070909814037032
+      space_JellyFish_137: 8086203252243581812
+      space_JellyFish_138: -3754355567104868716
+      space_JellyFish_139: -6316457316965118281
+      space_JellyFish_14: 8537713489118828206
+      space_JellyFish_140: 3628832280656359897
+      space_JellyFish_141: 4565507152675650402
+      space_JellyFish_142: -4301114834893358980
+      space_JellyFish_143: -3435539421216109394
+      space_JellyFish_144: 910610026761568106
+      space_JellyFish_145: 5701764128982672556
+      space_JellyFish_146: 158503387885874825
+      space_JellyFish_147: 7176144458356254401
+      space_JellyFish_148: 6923440725029257523
+      space_JellyFish_149: -1979081402574838519
+      space_JellyFish_15: 2014063466555116382
+      space_JellyFish_150: 6598786653906496790
+      space_JellyFish_151: 2783516206357071614
+      space_JellyFish_152: 475568810291888495
+      space_JellyFish_153: -5028437400633066226
+      space_JellyFish_154: -240162332695227151
+      space_JellyFish_155: 3310765006219127328
+      space_JellyFish_156: -9191222787422340043
+      space_JellyFish_157: 916722715449698395
+      space_JellyFish_158: 1146999598243409200
+      space_JellyFish_159: -5850660644254547296
+      space_JellyFish_16: -1868191771098526941
+      space_JellyFish_160: -1468226547140730798
+      space_JellyFish_161: 7652856502668634933
+      space_JellyFish_162: -8851622690682383071
+      space_JellyFish_163: -1135603513443633312
+      space_JellyFish_164: 4447665432860388650
+      space_JellyFish_165: -6384301632117849907
+      space_JellyFish_166: -1464720537354968744
+      space_JellyFish_167: -7497806000183537344
+      space_JellyFish_168: -7460524601804704251
+      space_JellyFish_169: 2867712641889313382
+      space_JellyFish_17: -7950008757561644309
+      space_JellyFish_170: -1416546450196715427
+      space_JellyFish_171: 7926161368946613742
+      space_JellyFish_172: 4681210296391549376
+      space_JellyFish_173: -5437380962145771719
+      space_JellyFish_174: -2728002267768952988
+      space_JellyFish_175: 4640436495887293042
+      space_JellyFish_176: 654066357609802945
+      space_JellyFish_177: -8401426610044185040
+      space_JellyFish_178: -7815010167820377578
+      space_JellyFish_179: 678251067785459297
+      space_JellyFish_18: -5100147036323334130
+      space_JellyFish_180: 5683070380974847596
+      space_JellyFish_181: 8934284042241951203
+      space_JellyFish_182: 6926478531370370290
+      space_JellyFish_183: -3055981086639805168
+      space_JellyFish_184: 1525147350425829635
+      space_JellyFish_185: 1114919375780736621
+      space_JellyFish_186: 244691756395983227
+      space_JellyFish_187: 8215157594881529761
+      space_JellyFish_19: -1963416598611591321
+      space_JellyFish_2: 5642716508219858421
+      space_JellyFish_20: 8684710470409128064
+      space_JellyFish_21: -214985811199426342
+      space_JellyFish_22: -5406021435935356482
+      space_JellyFish_23: 2314083742041386117
+      space_JellyFish_24: -4276445682997063932
+      space_JellyFish_25: 2478098439749813731
+      space_JellyFish_26: -5487629539728342013
+      space_JellyFish_27: -2623822764112710392
+      space_JellyFish_28: 8145118313667179480
+      space_JellyFish_29: 4674535305671915837
+      space_JellyFish_3: -8920026300654054304
+      space_JellyFish_30: 6226778774426834073
+      space_JellyFish_31: 1918433872882573189
+      space_JellyFish_32: 8197207271402818820
+      space_JellyFish_33: -6512567543778685941
+      space_JellyFish_34: -5297185282916688820
+      space_JellyFish_35: -8621465586595425790
+      space_JellyFish_36: 2766206133564620583
+      space_JellyFish_37: -4530763710398701924
+      space_JellyFish_38: -2213465536581486732
+      space_JellyFish_39: -3505922993401496810
+      space_JellyFish_4: 6822449464720975189
+      space_JellyFish_40: -6507570558174932723
+      space_JellyFish_41: -4905457325976994430
+      space_JellyFish_42: 8210387390761576781
+      space_JellyFish_43: -480153464127462502
+      space_JellyFish_44: 3645037272526149244
+      space_JellyFish_45: 3874202617803259247
+      space_JellyFish_46: -3591241631297572927
+      space_JellyFish_47: -5965530736124158203
+      space_JellyFish_48: 2041823983458928778
+      space_JellyFish_49: -7168923512543673052
+      space_JellyFish_5: -2743155579818558778
+      space_JellyFish_50: -7495975623357072512
+      space_JellyFish_51: 6151090531654337848
+      space_JellyFish_52: -8610396918309351753
+      space_JellyFish_53: -8336340022384805269
+      space_JellyFish_54: 5833331178830054709
+      space_JellyFish_55: 2609451448441573783
+      space_JellyFish_56: 5856960296826060286
+      space_JellyFish_57: -6587025221227966099
+      space_JellyFish_58: -7982789701710836453
+      space_JellyFish_59: -7961139469445229030
+      space_JellyFish_6: 7385390441429386414
+      space_JellyFish_60: 4897845305684828177
+      space_JellyFish_61: -7683221751787214509
+      space_JellyFish_62: 5390203627765263894
+      space_JellyFish_63: -5705650583549258397
+      space_JellyFish_64: -1109841137361200868
+      space_JellyFish_65: -7854094456518638869
+      space_JellyFish_66: -4263447520286046533
+      space_JellyFish_67: -3048761917536655734
+      space_JellyFish_68: 5347340675878830941
+      space_JellyFish_69: 4840484007320730350
+      space_JellyFish_7: -8418695501415830842
+      space_JellyFish_70: 225840531251355968
+      space_JellyFish_71: 4557424665178133747
+      space_JellyFish_72: 685354938046494307
+      space_JellyFish_73: -8734627848286740395
+      space_JellyFish_74: 516359807459871800
+      space_JellyFish_75: 7989093219090206744
+      space_JellyFish_76: 3355986238604782956
+      space_JellyFish_77: -3801937750022908414
+      space_JellyFish_78: 4785477795921092506
+      space_JellyFish_79: -1173182057627507312
+      space_JellyFish_8: -1400232066801309538
+      space_JellyFish_80: -4799492158597771477
+      space_JellyFish_81: -3589521612449658251
+      space_JellyFish_82: 7565546433224942023
+      space_JellyFish_83: -7732733240090723556
+      space_JellyFish_84: -1531536701703602158
+      space_JellyFish_85: -2196287746516258597
+      space_JellyFish_86: -5525272893901896098
+      space_JellyFish_87: -2123494047559977699
+      space_JellyFish_88: -1077812986579372633
+      space_JellyFish_89: 983356071888724365
+      space_JellyFish_9: -4928252463586978208
+      space_JellyFish_90: 5158545341270808706
+      space_JellyFish_91: -6402473838602366931
+      space_JellyFish_92: -6922510368076560673
+      space_JellyFish_93: 5197142692501925653
+      space_JellyFish_94: 569086353724907194
+      space_JellyFish_95: -7586777305028504666
+      space_JellyFish_96: -1397528908746533153
+      space_JellyFish_97: 8373007257434327809
+      space_JellyFish_98: -4629929655507095428
+      space_JellyFish_99: 348326166632694560
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
